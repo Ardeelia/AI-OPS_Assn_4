@@ -8,6 +8,7 @@
 
 3.The final dashboards track four main metrics which are cpu utilization, number of images processed grouped by status and batch, deployment status and 95th percentile of inference latency.
 
+4.The JSON file of the grafana dashboard has also been attached
 
 AI USE Disclosure
 
